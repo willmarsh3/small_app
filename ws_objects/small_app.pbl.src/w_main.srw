@@ -38,19 +38,20 @@ destroy(this.cb_close)
 end on
 
 type st_fouo from statictext within w_main
-integer x = 754
-integer y = 180
+integer x = 626
+integer y = 192
 integer width = 2514
 integer height = 368
 integer textsize = -20
-integer weight = 400
+integer weight = 700
 fontcharset fontcharset = ansi!
 fontpitch fontpitch = variable!
 fontfamily fontfamily = roman!
 string facename = "Georgia"
-long textcolor = 33554432
+long textcolor = 255
 long backcolor = 67108864
 string text = "For Official Use Only"
+alignment alignment = Center!
 boolean focusrectangle = false
 end type
 
